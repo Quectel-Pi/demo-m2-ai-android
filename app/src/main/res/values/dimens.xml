@@ -1,0 +1,3 @@
+<resources>
+    <dimen name="prediction_row_vertical_padding">7dp</dimen>
+</resources>
