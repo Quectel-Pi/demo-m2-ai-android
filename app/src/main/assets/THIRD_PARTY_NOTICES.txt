@@ -1,0 +1,54 @@
+Third-party components included in this demo
+
+LiteRT Android runtime
+Version: 2.1.0
+License: Apache License 2.0
+Source: https://github.com/google-ai-edge/LiteRT
+
+Google ML Kit Text Recognition
+Version: 16.0.1 (Latin and Chinese bundled models)
+Terms: https://developers.google.com/ml-kit/terms
+Documentation: https://developers.google.com/ml-kit/vision/text-recognition/v2
+
+Vosk Android
+Version: 0.3.75
+License: Apache License 2.0
+Source: https://github.com/alphacep/vosk-api
+
+Java Native Access (JNA)
+Version: 5.18.1
+License: LGPL-2.1-or-later or Apache License 2.0
+Source: https://github.com/java-native-access/jna
+
+Vosk US English small speech model
+Model: vosk-model-small-en-us-0.15
+License: Apache License 2.0
+Copyright: 2020 Alpha Cephei Inc
+Source: https://alphacephei.com/vosk/models
+
+EfficientNet-Lite2 image classification model
+License: Apache License 2.0 (as declared in the model metadata)
+Source: https://storage.googleapis.com/ai-edge/interpreter-samples/image_classification/android/efficientnet_lite2.tflite
+
+Example images
+Cat and burger:
+  License: Pixabay Content License
+  Source: https://pixabay.com/photos/cat-kitten-pets-animals-housecat-2934720/
+  Source: https://pixabay.com/photos/hamburger-burger-barbeque-bbq-beef-1238246/
+  These are the sample images referenced by the LiteRT image-classification notebook:
+  https://github.com/google-ai-edge/litert-samples/blob/main/samples/litert_interpreter/image_classification/python/image_classification.ipynb
+
+Dog:
+  License: CC0 1.0
+  Creator: Dktue
+  Source: https://commons.wikimedia.org/wiki/File:Portrait_of_a_labrador_retriever.jpg
+
+Mug:
+  License: CC0 1.0
+  Creator: Ryan Holloway
+  Source: https://commons.wikimedia.org/wiki/File:Coffee_Mug_(Unsplash).jpg
+
+AndroidX and Material Components for Android
+License: Apache License 2.0
+
+The accompanying LICENSE-APACHE-2.0.txt contains the license text.
